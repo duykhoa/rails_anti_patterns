@@ -32,3 +32,6 @@
     - Solution:Move the Task to the Background.
   2. Painful Performance
     - Solution:Move the Task to the Background.
+
+
+#####Book: [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814)
